@@ -1,7 +1,7 @@
 [package]
 name = "rust-http"
 version = "0.1.0"
-authors = ["Bryan-Mierdel <bryan.mierdel@ibm.com>"]
+authors = ["Bryan-Mierdel <bryan.mierdel@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
